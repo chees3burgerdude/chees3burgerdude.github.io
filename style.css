@@ -1,0 +1,49 @@
+body {
+  background: azure;
+  width:65%;
+  margin: auto;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.space {
+  font-family:monospace;
+  border: Solid darkblue;
+  border-top-color:rebeccapurple;
+  border-bottom-color: rebeccapurple;
+  border-radius:5px;
+  text-align: center;
+  padding: 3 px;
+}
+a {
+  font-family:monospace;
+  border: Solid rebeccapurple;
+  color:black;
+  background-color:lightskyblue;
+  border-radius:20px;
+  padding:3.2px;
+  margin: px;
+}
+a:hover {
+  border: Solid lightskyblue;
+  color:lightskyblue;
+  background-color:rebeccapurple;
+  padding:5px;
+}
+.description {
+  font-size: 14px;
+}
+.link {
+  border-radius: 0px;
+  background-color: azure;
+  border: 0px;
+}
+.link:hover {
+  text-decoration: underline;
+  color:grey;
+  background-color:azure;
+  padding:0.1px;
+}
